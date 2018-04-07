@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "address1": "1 Windfield Street",
+    "address2": "",
+    "address3": "",
+    "postcode": "E1 3SS",
+    "city": "London",
+    "country": "United Kingdom",
+    "phone": {
+        "landline": "02075440300",
+        "mobile": "07337550000",
+        "work": "81184449933"
+    }
+}
